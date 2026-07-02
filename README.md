@@ -3,7 +3,11 @@
 
 🎓 Sinh viên năm 3 ngành Công nghệ Thông tin.
 
-💻 Định hướng trở thành Web Developer.
+🎯 Định hướng:
+- Trở thành Web Developer
+- Học ASP.NET Core
+- Xây dựng các Website quản lý
+- Phát triển Website thông tin về Đảng bộ và Đoàn Thanh niên
 
 🌐 Yêu thích phát triển các ứng dụng Web phục vụ học tập, quản lý và chuyển đổi số.
 
@@ -21,7 +25,7 @@
 - Thiết kế và lập trình Web
 - Git & GitHub
 
-## 🌟 Mục tiêu cá nhân
+## 🌟 Mục tiêu cá nhân:
 
 Một trong những mục tiêu của tôi là xây dựng một Website thông tin về Đảng và Đoàn Thanh niên với giao diện hiện đại, trực quan và dễ tiếp cận.
 
